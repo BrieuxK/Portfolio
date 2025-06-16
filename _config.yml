@@ -1,3 +1,25 @@
-title: Brieux Kaczmarczyk
-show_downloads: true
-theme: jekyll-theme-minimal
+# _config.yml
+
+title: Your Name
+description: >-
+  Welcome to my portfolio! I'm a [your profession or tagline].
+  This site showcases my projects, skills, and background.
+
+# Enable the Slate theme
+theme: jekyll-theme-slate
+
+# GitHub Pages settings (optional, but useful)
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social media and contact (optional)
+author:
+  name: Your Name
+  email: your.email@example.com
+  github: your-github-username
+  linkedin: your-linkedin-username
+
+# Other customization (optional)
+show_downloads: false  # You can turn this on if you want a "Download" link
