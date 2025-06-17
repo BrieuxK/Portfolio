@@ -20,3 +20,8 @@ Simulation of the Kuramoto-Sivashinsky method for fluid mechanics in 2D.
 Analysis and numerical reconstitution of a particle detector using the Geant-4 software.
 
 🔑 : C++, Geant-4, Linux, Data analysis, Simulation, Particle physics
+
+## 🫀 [Evualtion of heart failure probabilities for smurfs](https://github.com/BrieuxK/Heart_failure_smurfs)
+Using a dataset containing 20+ different variables and heart scan pictures, the goal is to determine the probabilities a smurf has to develop a heart failure in the 10 upcoming years.
+
+🔑 : Python, Scikit-learn, Pytorch, Machine learning, ETL, Data analysis
