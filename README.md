@@ -16,7 +16,7 @@ Simulation of the Kuramoto-Sivashinsky method for fluid mechanics in 2D.
 
 Python, pandas, Simulation, Astrophysics, Fluid physics 
 
-### 🔎 [Simulation of a particle detectotr with the Geant-4 software](https://github.com/BrieuxK/Geant4-Cosmic-Bench)
+### 🔎 [Simulation of a particle detector with the Geant-4 software](https://github.com/BrieuxK/Geant4-Cosmic-Bench)
 Analysis and numerical reconstitution of a particle detector using the Geant-4 software.
 
 C++, Geant-4, Linux, Data analysis, Simulation, Particle physics
