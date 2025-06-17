@@ -1,4 +1,4 @@
-# 🚀 Projects
+# 🚀 Projects 🚀
 
 ## ⚛️ [Background modelling with a cGAN](https://github.com/BrieuxK/Background-Modelling-cGAN)
 Conditional Generative Adversarial Network (CGAN) applied to background modelling for particle physics data.
