@@ -14,4 +14,4 @@ Python, Scikit-learn, pandas, Data analysis, Jupyter Notebook, Astrophysics
 Simulation of several planets orbits around the Sun for 5000+ years using symplectic and non-symplectic methods.
 Simulation of the Kuramoto-Sivashinsky method for fluid mechanics in 2D.
 
-Python, pandas, simulation, Astrophysics, Fluid physics 
+Python, pandas, Simulation, Astrophysics, Fluid physics 
