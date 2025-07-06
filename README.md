@@ -25,3 +25,10 @@ Analysis and numerical reconstitution of a particle detector using the Geant-4 s
 Using a dataset containing 20+ different variables and heart scan pictures, the goal is to determine the probabilities a smurf has to develop a heart failure in the 10 upcoming years.
 
 🔑 : Python, Scikit-learn, Pytorch, Machine learning, ETL, Data analysis
+
+## 🔎 [Decision making via reinforcement learning for a board game](https://github.com/Quent-DL/LINFO2275_SnakesLadders))
+With a given board games and rules, determine the most effective strategies to win using different approaches.
+
+🔑 : Python, Numpy, Decision making, Reinforcement learning, Markov chain, Genetic algorithm
+
+<small>Credit: Quentin D. and Florent R.</small>
