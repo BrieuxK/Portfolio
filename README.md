@@ -15,18 +15,23 @@ Simulation of several planets orbits around the Sun for 5000+ years using symple
 Simulation of the Kuramoto-Sivashinsky method for fluid mechanics in 2D.
 
 🔑 : Python, pandas, Simulation, Astrophysics, Fluid physics 
+<sub>Credit: Chloé V.</sub>
 
 ## 🔎 [Simulation of a particle detector with the Geant-4 software](https://github.com/BrieuxK/Geant4-Cosmic-Bench)
 Analysis and numerical reconstitution of a particle detector using the Geant-4 software.
 
 🔑 : C++, Geant-4, Linux, Data analysis, Simulation, Particle physics
 
+<sub>Credit: Romain G. and Maxime H.</sub>
+
 ## 🫀 [Evaluation of heart failure probabilities for smurfs](https://github.com/BrieuxK/Heart_failure_smurfs)
 Using a dataset containing 20+ different variables and heart scan pictures, the goal is to determine the probabilities a smurf has to develop a heart failure in the 10 upcoming years.
 
 🔑 : Python, Scikit-learn, Pytorch, Machine learning, ETL, Data analysis
 
-## ♟️🎲 [Decision making via reinforcement learning for a board game](https://github.com/Quent-DL/LINFO2275_SnakesLadders))
+<sub>Credit: Laura V.</sub>
+
+## ♟️🎲 [Decision making via reinforcement learning for a board game](https://github.com/Quent-DL/LINFO2275_SnakesLadders)
 With a given board games and rules, determine the most effective strategies to win using different approaches.
 
 🔑 : Python, Numpy, Decision making, Reinforcement learning, Markov chain, Genetic algorithm
