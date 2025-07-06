@@ -15,6 +15,7 @@ Simulation of several planets orbits around the Sun for 5000+ years using symple
 Simulation of the Kuramoto-Sivashinsky method for fluid mechanics in 2D.
 
 🔑 : Python, pandas, Simulation, Astrophysics, Fluid physics 
+
 <sub>Credit: Chloé V.</sub>
 
 ## 🔎 [Simulation of a particle detector with the Geant-4 software](https://github.com/BrieuxK/Geant4-Cosmic-Bench)
