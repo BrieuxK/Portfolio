@@ -26,9 +26,9 @@ Using a dataset containing 20+ different variables and heart scan pictures, the 
 
 🔑 : Python, Scikit-learn, Pytorch, Machine learning, ETL, Data analysis
 
-## 🔎 [Decision making via reinforcement learning for a board game](https://github.com/Quent-DL/LINFO2275_SnakesLadders))
+## ♟️🎲 [Decision making via reinforcement learning for a board game](https://github.com/Quent-DL/LINFO2275_SnakesLadders))
 With a given board games and rules, determine the most effective strategies to win using different approaches.
 
 🔑 : Python, Numpy, Decision making, Reinforcement learning, Markov chain, Genetic algorithm
 
-<small>Credit: Quentin D. and Florent R.</small>
+<sub>Credit: Quentin D. and Florent R.</sub>
