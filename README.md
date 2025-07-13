@@ -37,4 +37,4 @@ With a given board games and rules, determine the most effective strategies to w
 
 🔑 : Python, Numpy, Decision making, Reinforcement learning, Markov chain, Genetic algorithm
 
-<sub>Worked with Quentin D. and Florent R.</sub>
+<sub>Worked with Quentin D. and Florent N.</sub>
