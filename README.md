@@ -35,6 +35,6 @@ Using a dataset containing 20+ different variables and heart scan pictures, the 
 ## ♟️🎲 [Decision making via reinforcement learning for a board game](https://github.com/Quent-DL/LINFO2275_SnakesLadders)
 With a given board games and rules, determine the most effective strategies to win using different approaches.
 
-🔑 : Python, Numpy, Decision making, Reinforcement learning, Markov chain, Genetic algorithm
+🔑 : Python, Numpy, Decision making, Reinforcement learning, Markov decision process, Genetic algorithm
 
 <sub>Worked with Quentin D. and Florent N.</sub>
