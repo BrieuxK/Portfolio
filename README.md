@@ -1,12 +1,12 @@
 # 🚀 Projects 🚀
 
-## ⚛️ [Background modelling with a cGAN](https://github.com/BrieuxK/Background-Modelling-cGAN)
+## ⚛️ [Background modelling in particle accelerators with a cGAN](https://github.com/BrieuxK/Background-Modelling-cGAN)
 Conditional Generative Adversarial Network (CGAN) applied to background modelling for particle physics data.
 
 🔑 : Python, Keras, TensorFlow, Generative AI, ETL, Linux, Particle physics, cGAN
 
-## 🌟 [Background study with unsupervised learning techniques](https://github.com/BrieuxK/Etude-du-bruit)
-Dimensionality reduction techniques applied to large astrophysical datasets.
+## 🌟 [Background study from astrophysical sources with unsupervised learning techniques](https://github.com/BrieuxK/Etude-du-bruit)
+Background study with dimensionality reduction techniques applied to large astrophysical datasets.
 
 🔑 : Python, Scikit-learn, pandas, Data analysis, Jupyter Notebook, Astrophysics, PCA, t-SNE
 
